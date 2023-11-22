@@ -1,0 +1,53 @@
+.fluid
+{
+    background-color: #0C356A;
+  
+}
+.maintyt
+{
+    line-height: 3.5rem;
+    background-color: #0174BE;
+    padding: 5rem 5rem;
+    color: white;
+   
+}
+.maintyt2
+{
+    background-color: #0174BE;
+    padding: 5rem 5rem;
+    color: white;
+}
+ .service
+ {
+    padding: 0.6rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    color: #0C356A;
+ }  
+.word
+{
+    
+font-family: 'Playfair Display', serif;
+    color: white;
+}
+.d-flex20
+{
+    text-align: center;
+    color: white;
+    background-color: #0C356A;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+*
+{
+    font-family: 'Nunito Sans', sans-serif;
+    
+
+}
+.mine
+{
+    background-color: #0C356A;
+    color: antiquewhite;
+    padding: 2rem;
+}
